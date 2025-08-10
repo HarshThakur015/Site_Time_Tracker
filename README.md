@@ -174,6 +174,4 @@ This project is open source and available under the MIT License. We believe in t
 
 ---
 
-**Ready to get the most accurate screen time tracking available? Install this extension and discover how much time you're really spending online!** 🎯✨
-#   S i t e _ T i m e _ T r a c k e r  
- 
+**Ready to get the most accurate screen time tracking available? Install this extension and discover how much time you're really spending online!** 
