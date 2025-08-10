@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Site Tracker</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Site Tracker</h1>
+    <div class="total-time-section">
+      <span class="label">Total time on browser:</span>
+      <span id="total-time">--</span>
+    </div>
+    <div class="total-time-section">
+      <span class="label">Total media playback time:</span>
+      <span id="total-media-time">--</span>
+    </div>
+    <div class="site-list-section">
+      <span class="label">Sites & Time Spent:</span>
+      <ul id="site-times-list"></ul>
+    </div>
+    <div class="site-list-section">
+      <span class="label">Media Playback Time:</span>
+      <ul id="media-times-list"></ul>
+    </div>
+  </div>
+  <script src="../storage/storage.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
